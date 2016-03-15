@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/options.rpy", line 284: unexpected indent
+        config.font_replacement_map[('amiri-regular.ttf', True, False)] = ('amiri-bold.ttf', False, False)
+        ^
+    
+
+Ren'Py Version: Ren'Py 6.99.9.1168
